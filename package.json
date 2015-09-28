@@ -5,6 +5,6 @@
   "description": "OAuth2.0 for RouteInjector",
   "main": "index.js",
   "dependencies": {
-    "oauth2-express": "git+https://github.com/GerardSoleCa/node-oauth2-provider"
-  }
+    "oauth2-express": "git+https://github.com/GerardSoleCa/node-oauth2-provider.git"
+  },
 }

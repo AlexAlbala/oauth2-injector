@@ -2,7 +2,7 @@ module.exports = {
     "id": "_id",
     "displayField": "name",
     "enableRefs": true,
-    "section":"Authentication",
+    "section":"Configurations.Auth",
     "path": "app",
     "plural": "apps",
     "get": {},
